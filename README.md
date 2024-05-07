@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EuRoXy
-- 👀 I’m interested in science, technology and languages
-- 🌱 I’m currently learning DL using Flux.jl
+- 👀 I’m interested in sciences, technology and languages
+- 🌱 I’m currently backend dev using JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
